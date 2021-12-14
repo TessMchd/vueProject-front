@@ -1,0 +1,55 @@
+a {
+    color : black;
+    text-decoration : none;
+}
+
+#nav {
+  padding: 20px;
+}
+
+.badge.badge-primary {
+    background-color: #42b983;
+}
+
+.green-button {
+    background-color: #42b983;
+    border:none;
+}
+
+.green-button a {
+    color: white;
+}
+
+.message-content {
+    text-align : left;
+}
+
+.limit-text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.categorie-title {
+    text-align : left;
+}
+
+label {
+    text-align :left;
+}
+
+.categorie {
+    width: 100px;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.recherche-card {
+    width:500px;
+}
+
+#connexion {
+    width: 500px;
+}
